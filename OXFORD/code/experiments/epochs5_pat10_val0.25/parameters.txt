@@ -1,0 +1,12 @@
+===== Training Parameters =====
+epochs: 5
+patience: 10
+batch_size: 32
+learning_rate: 0.001
+val_ratio: 0.25
+train_data_folders: ["/mnt/60FE87C2FE878F4A/Uni/Master's/Term1/Fault-Tolerant System Design/Assignments/Replication/code/Dataset1/PCnnLstm/OXFORD/dataset/Cell1_Files"]
+
+===== Data Parameters =====
+sequence_length: 30
+features: ['Voltage', 'Charge']
+target: Temperature

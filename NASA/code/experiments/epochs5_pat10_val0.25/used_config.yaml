@@ -1,0 +1,23 @@
+data:
+  features:
+  - Voltage_measured (Volts)
+  - Current_measured (Amps)
+  sequence_length: 30
+  target: Delta_Temperature
+testing:
+  test_data_folders:
+  - /mnt/60FE87C2FE878F4A/Uni/Master's/Term1/Fault-Tolerant System Design/Assignments/Replication/code/Dataset1/5.
+    Battery Data Set/B0029/csv/combined/changed
+training:
+  batch_size: 32
+  epochs: 5
+  learning_rate: 0.001
+  patience: 10
+  train_data_folders:
+  - /mnt/60FE87C2FE878F4A/Uni/Master's/Term1/Fault-Tolerant System Design/Assignments/Replication/code/Dataset1/5.
+    Battery Data Set/B0030/csv/combined/changed
+  - /mnt/60FE87C2FE878F4A/Uni/Master's/Term1/Fault-Tolerant System Design/Assignments/Replication/code/Dataset1/5.
+    Battery Data Set/B0031/csv/combined/changed
+  - /mnt/60FE87C2FE878F4A/Uni/Master's/Term1/Fault-Tolerant System Design/Assignments/Replication/code/Dataset1/5.
+    Battery Data Set/B0032/csv/combined/changed
+  val_ratio: 0.25

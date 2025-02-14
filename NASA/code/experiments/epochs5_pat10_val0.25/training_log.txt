@@ -1,0 +1,35 @@
+Splitting training data into training and validation sets...
+Training samples: 246485, Validation samples: 82162
+No checkpoint found. Training will start from scratch.
+Training started.
+Epoch 1: val_loss improved to 0.0511, saving model to experiments/epochs5_pat10_val0.25/PCnnLstm_checkpoint.keras.
+Epoch 1/5 completed. - loss: 0.1259 - mae: 0.1804 - rmse: 0.3548 - val_loss: 0.0511 - val_mae: 0.1311 - val_rmse: 0.2260
+
+
+Epoch 2: val_loss improved to 0.0422, saving model to experiments/epochs5_pat10_val0.25/PCnnLstm_checkpoint.keras.
+Epoch 2/5 completed. - loss: 0.0811 - mae: 0.1519 - rmse: 0.2848 - val_loss: 0.0422 - val_mae: 0.1112 - val_rmse: 0.2053
+
+
+Epoch 3: val_loss improved to 0.0383, saving model to experiments/epochs5_pat10_val0.25/PCnnLstm_checkpoint.keras.
+Epoch 3/5 completed. - loss: 0.0694 - mae: 0.1430 - rmse: 0.2635 - val_loss: 0.0383 - val_mae: 0.1091 - val_rmse: 0.1958
+
+
+Epoch 4: val_loss improved to 0.0362, saving model to experiments/epochs5_pat10_val0.25/PCnnLstm_checkpoint.keras.
+Epoch 4/5 completed. - loss: 0.0647 - mae: 0.1389 - rmse: 0.2543 - val_loss: 0.0362 - val_mae: 0.1031 - val_rmse: 0.1904
+
+
+Epoch 5/5 completed. - loss: 0.0640 - mae: 0.1394 - rmse: 0.2530 - val_loss: 0.0409 - val_mae: 0.1193 - val_rmse: 0.2023
+
+
+Training completed.
+
+Training and Validation History:
+Epoch Train Loss     Train MAE      Train RMSE     Val Loss       Val MAE        Val RMSE       
+1     0.1259         0.1804         0.3548         0.0511         0.1311         0.2260         
+2     0.0811         0.1519         0.2848         0.0422         0.1112         0.2053         
+3     0.0694         0.1430         0.2635         0.0383         0.1091         0.1958         
+4     0.0647         0.1389         0.2543         0.0362         0.1031         0.1904         
+5     0.0640         0.1394         0.2530         0.0409         0.1193         0.2023         
+Function `function` contains input name(s) resource with unsupported characters which will be renamed to functional_1_dense_3_1_add_readvariableop_resource in the SavedModel.
+Function `function` contains input name(s) resource with unsupported characters which will be renamed to functional_1_dense_3_1_add_readvariableop_resource in the SavedModel.
+Assets written to: /tmp/tmp8hu19jgi/assets

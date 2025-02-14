@@ -1,0 +1,87 @@
+No checkpoint found. Training will start from scratch.
+Training started.
+Epoch 1: loss improved to 0.2082, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 1/20 completed. - loss: 0.2082 - mae: 0.2318 - rmse: 0.4563
+
+
+Epoch 2: loss improved to 0.1200, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 2/20 completed. - loss: 0.1200 - mae: 0.1739 - rmse: 0.3464
+
+
+Epoch 3: loss improved to 0.1030, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 3/20 completed. - loss: 0.1030 - mae: 0.1603 - rmse: 0.3210
+
+
+Epoch 4: loss improved to 0.0850, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 4/20 completed. - loss: 0.0850 - mae: 0.1504 - rmse: 0.2915
+
+
+Epoch 5: loss improved to 0.0832, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 5/20 completed. - loss: 0.0832 - mae: 0.1480 - rmse: 0.2885
+
+
+Epoch 6: loss improved to 0.0759, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 6/20 completed. - loss: 0.0759 - mae: 0.1417 - rmse: 0.2756
+
+
+Epoch 7: loss improved to 0.0730, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 7/20 completed. - loss: 0.0730 - mae: 0.1406 - rmse: 0.2702
+
+
+Epoch 8: loss improved to 0.0658, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 8/20 completed. - loss: 0.0658 - mae: 0.1354 - rmse: 0.2565
+
+
+Epoch 9: loss improved to 0.0595, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 9/20 completed. - loss: 0.0595 - mae: 0.1304 - rmse: 0.2440
+
+
+Epoch 10: loss improved to 0.0578, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 10/20 completed. - loss: 0.0578 - mae: 0.1272 - rmse: 0.2404
+
+
+Epoch 11: loss improved to 0.0566, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 11/20 completed. - loss: 0.0566 - mae: 0.1284 - rmse: 0.2379
+
+
+Epoch 12: loss improved to 0.0553, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 12/20 completed. - loss: 0.0553 - mae: 0.1253 - rmse: 0.2351
+
+
+Epoch 13: loss improved to 0.0527, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 13/20 completed. - loss: 0.0527 - mae: 0.1231 - rmse: 0.2296
+
+
+Epoch 14: loss improved to 0.0524, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 14/20 completed. - loss: 0.0524 - mae: 0.1218 - rmse: 0.2289
+
+
+Epoch 15: loss improved to 0.0501, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 15/20 completed. - loss: 0.0501 - mae: 0.1194 - rmse: 0.2237
+
+
+Epoch 16: loss improved to 0.0498, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 16/20 completed. - loss: 0.0498 - mae: 0.1185 - rmse: 0.2231
+
+
+Epoch 17/20 completed. - loss: 0.0517 - mae: 0.1214 - rmse: 0.2275
+
+
+Epoch 18: loss improved to 0.0483, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 18/20 completed. - loss: 0.0483 - mae: 0.1196 - rmse: 0.2198
+
+
+Epoch 19/20 completed. - loss: 0.0495 - mae: 0.1180 - rmse: 0.2225
+
+
+Epoch 20/20 completed. - loss: 0.0492 - mae: 0.1173 - rmse: 0.2217
+
+
+Training completed.
+Final Training History:
+loss: [0.20823003351688385, 0.12001603841781616, 0.10301577299833298, 0.08498403429985046, 0.08320525288581848, 0.07594915479421616, 0.07298807799816132, 0.06581655889749527, 0.059546202421188354, 0.05780770257115364, 0.056614622473716736, 0.05526098981499672, 0.05270048975944519, 0.05240517482161522, 0.05005794018507004, 0.04976240545511246, 0.05174250155687332, 0.04830896481871605, 0.049484964460134506, 0.049155984073877335]
+mae: [0.23177537322044373, 0.17387336492538452, 0.16032572090625763, 0.15036101639270782, 0.14800524711608887, 0.14172977209091187, 0.14057256281375885, 0.13542599976062775, 0.13037095963954926, 0.12716925144195557, 0.12844346463680267, 0.12525542080402374, 0.12307875603437424, 0.12182024121284485, 0.11939771473407745, 0.11852165311574936, 0.12136753648519516, 0.11963848024606705, 0.1180497333407402, 0.11727141588926315]
+rmse: [0.4563222825527191, 0.3464333117008209, 0.3209607005119324, 0.29152020812034607, 0.28845319151878357, 0.2755887508392334, 0.27016305923461914, 0.25654736161231995, 0.24402090907096863, 0.24043232202529907, 0.2379382699728012, 0.23507656157016754, 0.22956587374210358, 0.22892175614833832, 0.22373631596565247, 0.22307488322257996, 0.2274697870016098, 0.21979300677776337, 0.22245216369628906, 0.22171148657798767]
+Checkpoint loaded. Resuming training...
+Resuming training from epoch 18.
+Training started.

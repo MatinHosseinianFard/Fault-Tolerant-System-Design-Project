@@ -1,0 +1,7 @@
+ubuntu_venv/
+FaultVenv/
+npy_files/
+dataset/
+*.xlsx
+gozaresh/
+model.h

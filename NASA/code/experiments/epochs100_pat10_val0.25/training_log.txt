@@ -1,0 +1,99 @@
+Splitting training data into training and validation sets...
+Training samples: 246485, Validation samples: 82162
+No checkpoint found. Training will start from scratch.
+Training started.
+Epoch 1: val_loss improved to 0.0738, saving model to results/epochs100_pat10_val0.25/PCnnLstm_checkpoint.keras.
+Epoch 1/100 completed. - loss: 0.1463 - mae: 0.1919 - rmse: 0.3825 - val_loss: 0.0738 - val_mae: 0.1305 - val_rmse: 0.2717
+
+
+Epoch 2: val_loss improved to 0.0424, saving model to results/epochs100_pat10_val0.25/PCnnLstm_checkpoint.keras.
+Epoch 2/100 completed. - loss: 0.0866 - mae: 0.1579 - rmse: 0.2943 - val_loss: 0.0424 - val_mae: 0.1065 - val_rmse: 0.2059
+
+
+Epoch 3/100 completed. - loss: 0.0733 - mae: 0.1477 - rmse: 0.2707 - val_loss: 0.0428 - val_mae: 0.1014 - val_rmse: 0.2068
+
+
+Epoch 4: val_loss improved to 0.0360, saving model to results/epochs100_pat10_val0.25/PCnnLstm_checkpoint.keras.
+Epoch 4/100 completed. - loss: 0.0697 - mae: 0.1449 - rmse: 0.2640 - val_loss: 0.0360 - val_mae: 0.1035 - val_rmse: 0.1898
+
+
+Epoch 5: val_loss improved to 0.0341, saving model to results/epochs100_pat10_val0.25/PCnnLstm_checkpoint.keras.
+Epoch 5/100 completed. - loss: 0.0665 - mae: 0.1429 - rmse: 0.2579 - val_loss: 0.0341 - val_mae: 0.1055 - val_rmse: 0.1847
+
+
+Epoch 6: val_loss improved to 0.0297, saving model to results/epochs100_pat10_val0.25/PCnnLstm_checkpoint.keras.
+Epoch 6/100 completed. - loss: 0.0626 - mae: 0.1391 - rmse: 0.2501 - val_loss: 0.0297 - val_mae: 0.0901 - val_rmse: 0.1722
+
+
+Epoch 7: val_loss improved to 0.0287, saving model to results/epochs100_pat10_val0.25/PCnnLstm_checkpoint.keras.
+Epoch 7/100 completed. - loss: 0.0629 - mae: 0.1401 - rmse: 0.2509 - val_loss: 0.0287 - val_mae: 0.1050 - val_rmse: 0.1695
+
+
+Epoch 8/100 completed. - loss: 0.0640 - mae: 0.1406 - rmse: 0.2530 - val_loss: 0.0447 - val_mae: 0.1180 - val_rmse: 0.2115
+
+
+Epoch 9/100 completed. - loss: 0.0629 - mae: 0.1392 - rmse: 0.2507 - val_loss: 0.0328 - val_mae: 0.1030 - val_rmse: 0.1811
+
+
+Epoch 10/100 completed. - loss: 0.0611 - mae: 0.1384 - rmse: 0.2472 - val_loss: 0.0357 - val_mae: 0.1001 - val_rmse: 0.1890
+
+
+Epoch 11: val_loss improved to 0.0262, saving model to results/epochs100_pat10_val0.25/PCnnLstm_checkpoint.keras.
+Epoch 11/100 completed. - loss: 0.0601 - mae: 0.1386 - rmse: 0.2451 - val_loss: 0.0262 - val_mae: 0.0896 - val_rmse: 0.1617
+
+
+Epoch 12/100 completed. - loss: 0.0601 - mae: 0.1373 - rmse: 0.2451 - val_loss: 0.0388 - val_mae: 0.1147 - val_rmse: 0.1969
+
+
+Epoch 13/100 completed. - loss: 0.0910 - mae: 0.1544 - rmse: 0.3016 - val_loss: 0.0317 - val_mae: 0.1068 - val_rmse: 0.1780
+
+
+Epoch 14/100 completed. - loss: 0.0579 - mae: 0.1349 - rmse: 0.2407 - val_loss: 0.0381 - val_mae: 0.0991 - val_rmse: 0.1951
+
+
+Epoch 15/100 completed. - loss: 0.0577 - mae: 0.1336 - rmse: 0.2402 - val_loss: 0.0290 - val_mae: 0.0903 - val_rmse: 0.1702
+
+
+Epoch 16/100 completed. - loss: 0.0647 - mae: 0.1403 - rmse: 0.2544 - val_loss: 0.0380 - val_mae: 0.1109 - val_rmse: 0.1948
+
+
+Epoch 17/100 completed. - loss: 0.0640 - mae: 0.1396 - rmse: 0.2531 - val_loss: 0.0303 - val_mae: 0.0905 - val_rmse: 0.1740
+
+
+Epoch 18/100 completed. - loss: 0.0634 - mae: 0.1390 - rmse: 0.2518 - val_loss: 0.0272 - val_mae: 0.0906 - val_rmse: 0.1648
+
+
+Epoch 19/100 completed. - loss: 0.0610 - mae: 0.1372 - rmse: 0.2469 - val_loss: 0.0276 - val_mae: 0.0875 - val_rmse: 0.1662
+
+
+Epoch 20/100 completed. - loss: 0.0600 - mae: 0.1358 - rmse: 0.2450 - val_loss: 0.0343 - val_mae: 0.1091 - val_rmse: 0.1852
+
+
+Epoch 21/100 completed. - loss: 0.0583 - mae: 0.1350 - rmse: 0.2415 - val_loss: 0.0296 - val_mae: 0.0960 - val_rmse: 0.1721
+
+
+Training completed.
+
+Training and Validation History:
+Epoch Train Loss     Train MAE      Train RMSE     Val Loss       Val MAE        Val RMSE       
+1     0.1463         0.1919         0.3825         0.0738         0.1305         0.2717         
+2     0.0866         0.1579         0.2943         0.0424         0.1065         0.2059         
+3     0.0733         0.1477         0.2707         0.0428         0.1014         0.2068         
+4     0.0697         0.1449         0.2640         0.0360         0.1035         0.1898         
+5     0.0665         0.1429         0.2579         0.0341         0.1055         0.1847         
+6     0.0626         0.1391         0.2501         0.0297         0.0901         0.1722         
+7     0.0629         0.1401         0.2509         0.0287         0.1050         0.1695         
+8     0.0640         0.1406         0.2530         0.0447         0.1180         0.2115         
+9     0.0629         0.1392         0.2507         0.0328         0.1030         0.1811         
+10    0.0611         0.1384         0.2472         0.0357         0.1001         0.1890         
+11    0.0601         0.1386         0.2451         0.0262         0.0896         0.1617         
+12    0.0601         0.1373         0.2451         0.0388         0.1147         0.1969         
+13    0.0910         0.1544         0.3016         0.0317         0.1068         0.1780         
+14    0.0579         0.1349         0.2407         0.0381         0.0991         0.1951         
+15    0.0577         0.1336         0.2402         0.0290         0.0903         0.1702         
+16    0.0647         0.1403         0.2544         0.0380         0.1109         0.1948         
+17    0.0640         0.1396         0.2531         0.0303         0.0905         0.1740         
+18    0.0634         0.1390         0.2518         0.0272         0.0906         0.1648         
+19    0.0610         0.1372         0.2469         0.0276         0.0875         0.1662         
+20    0.0600         0.1358         0.2450         0.0343         0.1091         0.1852         
+21    0.0583         0.1350         0.2415         0.0296         0.0960         0.1721         

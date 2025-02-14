@@ -1,0 +1,28 @@
+training:
+  epochs: 5
+  patience: 10
+  batch_size: 32
+  learning_rate: 0.001
+  val_ratio: 0.25
+  train_data_folders:
+    # - /mnt/60FE87C2FE878F4A/Uni/Master's/Term1/Fault-Tolerant System Design/Assignments/Replication/code/Dataset1/5. Battery Data Set/B0030/csv/combined/changed
+    # - /mnt/60FE87C2FE878F4A/Uni/Master's/Term1/Fault-Tolerant System Design/Assignments/Replication/code/Dataset1/5. Battery Data Set/B0031/csv/combined/changed
+    # - /mnt/60FE87C2FE878F4A/Uni/Master's/Term1/Fault-Tolerant System Design/Assignments/Replication/code/Dataset1/5. Battery Data Set/B0032/csv/combined/changed
+  train_data_folders:
+    - D:/Uni/Master's/Term1/Fault-Tolerant System Design/Assignments/Replication/code/Dataset1/5. Battery Data Set/B0030/csv/combined/changed
+    - D:/Uni/Master's/Term1/Fault-Tolerant System Design/Assignments/Replication/code/Dataset1/5. Battery Data Set/B0031/csv/combined/changed
+    - D:/Uni/Master's/Term1/Fault-Tolerant System Design/Assignments/Replication/code/Dataset1/5. Battery Data Set/B0032/csv/combined/changed
+
+
+testing:
+  # test_data_folders:
+  #   - /mnt/60FE87C2FE878F4A/Uni/Master's/Term1/Fault-Tolerant System Design/Assignments/Replication/code/Dataset1/5. Battery Data Set/B0029/csv/combined/changed
+  test_data_folders:
+    - D:/Uni/Master's/Term1/Fault-Tolerant System Design/Assignments/Replication/code/Dataset1/5. Battery Data Set/B0029/csv/combined/changed
+
+data:
+  sequence_length: 30
+  features:
+    - Voltage_measured (Volts)
+    - Current_measured (Amps)
+  target: Delta_Temperature

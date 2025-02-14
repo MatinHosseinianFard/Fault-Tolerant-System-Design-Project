@@ -1,0 +1,31 @@
+Splitting training data into training and validation sets...
+Training samples: 351483, Validation samples: 117161
+No checkpoint found. Training will start from scratch.
+Training started.
+Epoch 1: val_loss improved to 0.9376, saving model to experiments/epochs5_pat10_val0.25/PCnnLstm_checkpoint.keras.
+Epoch 1/5 completed. - loss: 1.0157 - mae: 0.2525 - rmse: 1.0078 - val_loss: 0.9376 - val_mae: 0.2127 - val_rmse: 0.9683
+
+
+Epoch 2/5 completed. - loss: 1.0053 - mae: 0.2529 - rmse: 1.0026 - val_loss: 0.9396 - val_mae: 0.2142 - val_rmse: 0.9693
+
+
+Epoch 3: val_loss improved to 0.9357, saving model to experiments/epochs5_pat10_val0.25/PCnnLstm_checkpoint.keras.
+Epoch 3/5 completed. - loss: 1.0033 - mae: 0.2539 - rmse: 1.0016 - val_loss: 0.9357 - val_mae: 0.2500 - val_rmse: 0.9673
+
+
+Epoch 4: val_loss improved to 0.9354, saving model to experiments/epochs5_pat10_val0.25/PCnnLstm_checkpoint.keras.
+Epoch 4/5 completed. - loss: 1.0023 - mae: 0.2524 - rmse: 1.0011 - val_loss: 0.9354 - val_mae: 0.2437 - val_rmse: 0.9671
+
+
+Epoch 5/5 completed. - loss: 1.0034 - mae: 0.2506 - rmse: 1.0017 - val_loss: 0.9355 - val_mae: 0.2320 - val_rmse: 0.9672
+
+
+Training completed.
+
+Training and Validation History:
+Epoch Train Loss     Train MAE      Train RMSE     Val Loss       Val MAE        Val RMSE       
+1     1.0157         0.2525         1.0078         0.9376         0.2127         0.9683         
+2     1.0053         0.2529         1.0026         0.9396         0.2142         0.9693         
+3     1.0033         0.2539         1.0016         0.9357         0.2500         0.9673         
+4     1.0023         0.2524         1.0011         0.9354         0.2437         0.9671         
+5     1.0034         0.2506         1.0017         0.9355         0.2320         0.9672         

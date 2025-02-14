@@ -1,0 +1,46 @@
+No checkpoint found. Training will start from scratch.
+Training started.
+Epoch 1: loss improved to 0.2094, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 1/10 completed. - loss: 0.2094 - mae: 0.2313 - rmse: 0.4577
+
+
+Epoch 2: loss improved to 0.1034, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 2/10 completed. - loss: 0.1034 - mae: 0.1641 - rmse: 0.3216
+
+
+Epoch 3: loss improved to 0.0980, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 3/10 completed. - loss: 0.0980 - mae: 0.1580 - rmse: 0.3131
+
+
+Epoch 4: loss improved to 0.0884, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 4/10 completed. - loss: 0.0884 - mae: 0.1522 - rmse: 0.2973
+
+
+Epoch 5: loss improved to 0.0830, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 5/10 completed. - loss: 0.0830 - mae: 0.1496 - rmse: 0.2882
+
+
+Epoch 6: loss improved to 0.0803, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 6/10 completed. - loss: 0.0803 - mae: 0.1491 - rmse: 0.2833
+
+
+Epoch 7: loss improved to 0.0739, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 7/10 completed. - loss: 0.0739 - mae: 0.1450 - rmse: 0.2718
+
+
+Epoch 8/10 completed. - loss: 0.0747 - mae: 0.1469 - rmse: 0.2734
+
+
+Epoch 9: loss improved to 0.0699, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 9/10 completed. - loss: 0.0699 - mae: 0.1423 - rmse: 0.2644
+
+
+Epoch 10: loss improved to 0.0644, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 10/10 completed. - loss: 0.0644 - mae: 0.1383 - rmse: 0.2538
+
+
+Training completed.
+Final Training History:
+loss: [0.20944681763648987, 0.10343262553215027, 0.0980159193277359, 0.08837909251451492, 0.08303887397050858, 0.08025985211133957, 0.07387423515319824, 0.07473111897706985, 0.06989564746618271, 0.06440217792987823]
+mae: [0.23133587837219238, 0.16411513090133667, 0.15799908339977264, 0.15217502415180206, 0.14957799017429352, 0.14907316863536835, 0.14496450126171112, 0.14689429104328156, 0.14232270419597626, 0.13833832740783691]
+rmse: [0.45765358209609985, 0.3216094374656677, 0.3130749464035034, 0.2972862124443054, 0.2881646454334259, 0.2833016812801361, 0.27179816365242004, 0.2733699381351471, 0.2643778622150421, 0.25377583503723145]

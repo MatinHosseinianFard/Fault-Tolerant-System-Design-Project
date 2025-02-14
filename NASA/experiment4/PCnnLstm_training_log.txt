@@ -1,0 +1,148 @@
+No checkpoint found. Training will start from scratch.
+Training started.
+Epoch 1: loss improved to 0.2315, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 1/40 completed. - loss: 0.2315 - mae: 0.2424 - rmse: 0.4812
+
+
+Epoch 2: loss improved to 0.1222, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 2/40 completed. - loss: 0.1222 - mae: 0.1757 - rmse: 0.3496
+
+
+Epoch 3: loss improved to 0.0993, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 3/40 completed. - loss: 0.0993 - mae: 0.1594 - rmse: 0.3150
+
+
+Epoch 4: loss improved to 0.0931, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 4/40 completed. - loss: 0.0931 - mae: 0.1547 - rmse: 0.3052
+
+
+Epoch 5: loss improved to 0.0883, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 5/40 completed. - loss: 0.0883 - mae: 0.1524 - rmse: 0.2971
+
+
+Epoch 6: loss improved to 0.0796, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 6/40 completed. - loss: 0.0796 - mae: 0.1459 - rmse: 0.2821
+
+
+Epoch 7: loss improved to 0.0740, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 7/40 completed. - loss: 0.0740 - mae: 0.1424 - rmse: 0.2720
+
+
+Epoch 8: loss improved to 0.0715, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 8/40 completed. - loss: 0.0715 - mae: 0.1400 - rmse: 0.2674
+
+
+Epoch 9: loss improved to 0.0650, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 9/40 completed. - loss: 0.0650 - mae: 0.1363 - rmse: 0.2549
+
+
+Epoch 10: loss improved to 0.0604, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 10/40 completed. - loss: 0.0604 - mae: 0.1316 - rmse: 0.2457
+
+
+Epoch 11/40 completed. - loss: 0.0611 - mae: 0.1304 - rmse: 0.2471
+
+
+Epoch 12: loss improved to 0.0582, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 12/40 completed. - loss: 0.0582 - mae: 0.1312 - rmse: 0.2412
+
+
+Epoch 13/40 completed. - loss: 0.0597 - mae: 0.1305 - rmse: 0.2444
+
+
+Epoch 14: loss improved to 0.0573, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 14/40 completed. - loss: 0.0573 - mae: 0.1290 - rmse: 0.2393
+
+
+Epoch 15/40 completed. - loss: 0.0578 - mae: 0.1288 - rmse: 0.2404
+
+
+Epoch 16/40 completed. - loss: 0.0617 - mae: 0.1313 - rmse: 0.2485
+
+
+Epoch 17/40 completed. - loss: 0.0603 - mae: 0.1324 - rmse: 0.2456
+
+
+Epoch 18/40 completed. - loss: 0.0594 - mae: 0.1300 - rmse: 0.2438
+
+
+Epoch 19: loss improved to 0.0546, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 19/40 completed. - loss: 0.0546 - mae: 0.1267 - rmse: 0.2337
+
+
+Epoch 20: loss improved to 0.0542, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 20/40 completed. - loss: 0.0542 - mae: 0.1249 - rmse: 0.2329
+
+
+Epoch 21: loss improved to 0.0536, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 21/40 completed. - loss: 0.0536 - mae: 0.1255 - rmse: 0.2315
+
+
+Epoch 22: loss improved to 0.0524, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 22/40 completed. - loss: 0.0524 - mae: 0.1248 - rmse: 0.2289
+
+
+Epoch 23/40 completed. - loss: 0.0571 - mae: 0.1277 - rmse: 0.2390
+
+
+Epoch 24: loss improved to 0.0523, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 24/40 completed. - loss: 0.0523 - mae: 0.1243 - rmse: 0.2288
+
+
+Epoch 25: loss improved to 0.0500, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 25/40 completed. - loss: 0.0500 - mae: 0.1225 - rmse: 0.2236
+
+
+Epoch 26/40 completed. - loss: 0.0516 - mae: 0.1243 - rmse: 0.2272
+
+
+Epoch 27/40 completed. - loss: 0.0547 - mae: 0.1265 - rmse: 0.2338
+
+
+Epoch 28/40 completed. - loss: 0.0503 - mae: 0.1229 - rmse: 0.2243
+
+
+Epoch 29/40 completed. - loss: 0.0514 - mae: 0.1233 - rmse: 0.2267
+
+
+Epoch 30/40 completed. - loss: 0.0504 - mae: 0.1232 - rmse: 0.2245
+
+
+Epoch 31/40 completed. - loss: 0.0512 - mae: 0.1234 - rmse: 0.2263
+
+
+Epoch 32/40 completed. - loss: 0.0525 - mae: 0.1239 - rmse: 0.2290
+
+
+Epoch 33: loss improved to 0.0497, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 33/40 completed. - loss: 0.0497 - mae: 0.1220 - rmse: 0.2230
+
+
+Epoch 34/40 completed. - loss: 0.0502 - mae: 0.1224 - rmse: 0.2240
+
+
+Epoch 35/40 completed. - loss: 0.0529 - mae: 0.1239 - rmse: 0.2299
+
+
+Epoch 36: loss improved to 0.0495, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 36/40 completed. - loss: 0.0495 - mae: 0.1218 - rmse: 0.2225
+
+
+Epoch 37: loss improved to 0.0480, saving model to ./PCnnLstm_checkpoint.keras.
+Epoch 37/40 completed. - loss: 0.0480 - mae: 0.1204 - rmse: 0.2191
+
+
+Epoch 38/40 completed. - loss: 0.0486 - mae: 0.1195 - rmse: 0.2206
+
+
+Epoch 39/40 completed. - loss: 0.0489 - mae: 0.1212 - rmse: 0.2212
+
+
+Epoch 40/40 completed. - loss: 0.0484 - mae: 0.1204 - rmse: 0.2199
+
+
+Training completed.
+Final Training History:
+loss: [0.23153646290302277, 0.1221994012594223, 0.09925500303506851, 0.09312862902879715, 0.08828382194042206, 0.07960487902164459, 0.07396125793457031, 0.0714886337518692, 0.0649990513920784, 0.06035305932164192, 0.061056021600961685, 0.05819053575396538, 0.059738874435424805, 0.057270780205726624, 0.05779268965125084, 0.06173909455537796, 0.06031126528978348, 0.05944479629397392, 0.05462547391653061, 0.05422680079936981, 0.053596168756484985, 0.052399806678295135, 0.05710764229297638, 0.052329856902360916, 0.050002291798591614, 0.05163131281733513, 0.05465894192457199, 0.05029773339629173, 0.051384322345256805, 0.05037866160273552, 0.051229268312454224, 0.052462559193372726, 0.04973318427801132, 0.05018221214413643, 0.052869394421577454, 0.04952070116996765, 0.04800591990351677, 0.04864947125315666, 0.04893636330962181, 0.048357125371694565]
+mae: [0.2423907071352005, 0.17566189169883728, 0.15944601595401764, 0.15472780168056488, 0.15242046117782593, 0.1459420919418335, 0.1423594057559967, 0.13998398184776306, 0.13626524806022644, 0.13159798085689545, 0.1304074376821518, 0.13123461604118347, 0.13046838343143463, 0.12897931039333344, 0.12884622812271118, 0.13129977881908417, 0.13236504793167114, 0.1300024390220642, 0.12670493125915527, 0.12494209408760071, 0.12546545267105103, 0.12476017326116562, 0.12768228352069855, 0.12427877634763718, 0.12249414622783661, 0.12434591352939606, 0.12645959854125977, 0.12288819253444672, 0.12330029904842377, 0.12319384515285492, 0.12343074381351471, 0.12387179583311081, 0.12199617922306061, 0.12242685258388519, 0.12387187778949738, 0.12181530147790909, 0.12041007727384567, 0.11949816346168518, 0.12121185660362244, 0.12037339061498642]
+rmse: [0.48118236660957336, 0.34957030415534973, 0.31504762172698975, 0.30516982078552246, 0.2971259355545044, 0.28214335441589355, 0.27195820212364197, 0.26737356185913086, 0.2549491226673126, 0.24566859006881714, 0.24709516763687134, 0.2412271350622177, 0.24441537261009216, 0.23931314051151276, 0.24040110409259796, 0.24847352504730225, 0.24558351933956146, 0.24381303787231445, 0.23372092843055725, 0.23286648094654083, 0.23150846362113953, 0.22891002893447876, 0.23897205293178558, 0.22875720262527466, 0.22361192107200623, 0.22722524404525757, 0.2337925136089325, 0.22427155077457428, 0.22668109834194183, 0.2244519144296646, 0.22633883357048035, 0.22904706001281738, 0.2230093777179718, 0.22401386499404907, 0.2299334555864334, 0.2225324660539627, 0.21910253167152405, 0.22056624293327332, 0.2212156504392624, 0.21990253031253815]
